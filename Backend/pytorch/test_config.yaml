@@ -1,0 +1,18 @@
+# Test Training configuration
+use_huggingface_dataset: false
+train_data_path: "../../DATA"
+val_data_path: "../../DATA"
+model_save_path: "../../models/xception_deepfake_test.pth"
+
+# Training hyperparameters
+batch_size: 4
+learning_rate: 0.001
+num_epochs: 1
+
+# Data augmentation settings
+augmentation:
+  random_horizontal_flip: true
+  random_rotation: 10
+  resize: 299
+  normalize_mean: [0.485, 0.456, 0.406]
+  normalize_std: [0.229, 0.224, 0.225]

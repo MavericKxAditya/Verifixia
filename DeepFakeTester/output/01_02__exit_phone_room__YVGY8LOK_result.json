@@ -1,0 +1,13 @@
+{
+  "filename": "01_02__exit_phone_room__YVGY8LOK.mp4",
+  "path": "E:\\Verifixia\\DeepFakeTester\\input\\01_02__exit_phone_room__YVGY8LOK.mp4",
+  "media_type": "video",
+  "prediction": "Real",
+  "predicted_index": 0,
+  "confidence": 99.24,
+  "probabilities": {
+    "Real": 99.2426,
+    "Fake": 0.7574
+  },
+  "processed_at": "2026-04-24T22:30:34.990930"
+}

@@ -1,0 +1,13 @@
+{
+  "filename": "3.mp4",
+  "path": "E:\\Verifixia\\DeepFakeTester\\input\\3.mp4",
+  "media_type": "video",
+  "prediction": "Fake",
+  "predicted_index": 1,
+  "confidence": 98.1,
+  "probabilities": {
+    "Real": 1.9049,
+    "Fake": 98.0951
+  },
+  "processed_at": "2026-04-24T22:30:35.649734"
+}

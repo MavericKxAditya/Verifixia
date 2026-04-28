@@ -1,0 +1,770 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "total_tests": 80,
+  "correct_predictions": 78,
+  "accuracy": 97.5,
+  "precision": 96.15,
+  "recall": 100.0,
+  "f1_score": 0.9804,
+  "results": [
+    {
+      "filename": "Real_0.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 43.33,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_1.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.62,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_10.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.55,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_100.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 16.82,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_101.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.81,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_102.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.25,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_103.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.43,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_104.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.14,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_105.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 1.66,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_106.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 2.79,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_107.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 2.02,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_108.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.7,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_109.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 2.53,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_11.jpg",
+      "expected": "real",
+      "prediction": "fake",
+      "confidence": 70.27,
+      "correct": false,
+      "success": true
+    },
+    {
+      "filename": "Real_110.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 2.57,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_111.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 2.77,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_112.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 9.19,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_113.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 37.71,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_114.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.13,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_115.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.98,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_116.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.77,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_117.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 0.37,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_118.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 1.3,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_119.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 35.81,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_12.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 5.41,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_120.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 22.52,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_121.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 4.46,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_122.jpg",
+      "expected": "real",
+      "prediction": "fake",
+      "confidence": 79.39,
+      "correct": false,
+      "success": true
+    },
+    {
+      "filename": "Real_123.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 2.68,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Real_124.jpg",
+      "expected": "real",
+      "prediction": "real",
+      "confidence": 48.39,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_0.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.66,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_1.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.92,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_10.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.9,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_100.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.65,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_101.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.93,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_102.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.1,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_103.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.95,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_104.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.96,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_105.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.95,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_106.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.59,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_107.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.64,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_108.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.99,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_109.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.54,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_11.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.3,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_110.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.85,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_111.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.37,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_112.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.22,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_113.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.28,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_114.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 90.49,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_115.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.81,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_116.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.54,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_117.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.71,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_118.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.83,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_119.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.72,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_12.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.13,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_120.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.88,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_121.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.8,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_122.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.71,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_123.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 88.89,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_124.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 97.85,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_125.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.7,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_126.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.26,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_127.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.42,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_128.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.91,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_129.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.69,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_13.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.22,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_130.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.91,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_131.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.08,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_132.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 95.71,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_133.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.75,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_134.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.81,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_135.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 97.24,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_136.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.34,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_137.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.97,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_138.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.8,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_139.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 99.93,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_14.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 89.47,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_140.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 97.38,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_141.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.63,
+      "correct": true,
+      "success": true
+    },
+    {
+      "filename": "Fake_142.jpg",
+      "expected": "fake",
+      "prediction": "fake",
+      "confidence": 98.91,
+      "correct": true,
+      "success": true
+    }
+  ]
+}

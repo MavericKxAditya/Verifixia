@@ -1,0 +1,51 @@
+{
+  "run_id": "20260424_223032",
+  "model_path": "E:\\Verifixia\\Notebooks\\deepfake_cnn_lstm.pth",
+  "device": "cuda",
+  "frames_per_video": 8,
+  "image_size": 224,
+  "input_dir": "E:\\Verifixia\\DeepFakeTester\\input",
+  "output_dir": "E:\\Verifixia\\DeepFakeTester\\output",
+  "total_files": 3,
+  "results": [
+    {
+      "filename": "01_02__exit_phone_room__YVGY8LOK.mp4",
+      "path": "E:\\Verifixia\\DeepFakeTester\\input\\01_02__exit_phone_room__YVGY8LOK.mp4",
+      "media_type": "video",
+      "prediction": "Real",
+      "predicted_index": 0,
+      "confidence": 99.24,
+      "probabilities": {
+        "Real": 99.2426,
+        "Fake": 0.7574
+      },
+      "processed_at": "2026-04-24T22:30:34.990930"
+    },
+    {
+      "filename": "3.mp4",
+      "path": "E:\\Verifixia\\DeepFakeTester\\input\\3.mp4",
+      "media_type": "video",
+      "prediction": "Fake",
+      "predicted_index": 1,
+      "confidence": 98.1,
+      "probabilities": {
+        "Real": 1.9049,
+        "Fake": 98.0951
+      },
+      "processed_at": "2026-04-24T22:30:35.649734"
+    },
+    {
+      "filename": "4.mp4",
+      "path": "E:\\Verifixia\\DeepFakeTester\\input\\4.mp4",
+      "media_type": "video",
+      "prediction": "Real",
+      "predicted_index": 0,
+      "confidence": 75.8,
+      "probabilities": {
+        "Real": 75.7954,
+        "Fake": 24.2046
+      },
+      "processed_at": "2026-04-24T22:30:36.277353"
+    }
+  ]
+}

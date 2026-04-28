@@ -1,0 +1,15 @@
+{
+  "total_videos": 112,
+  "accuracy": 50.0,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0.0,
+  "confusion_matrix": {
+    "tn": 56,
+    "fp": 0,
+    "fn": 56,
+    "tp": 0
+  },
+  "model_path": "../../models/video_deepfake.pth",
+  "test_data_path": "../../DATA"
+}
